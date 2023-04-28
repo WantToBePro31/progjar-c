@@ -1,2 +1,2 @@
-# progjar-c
-Kumpulan Tugas Pemrograman Jaringan C
+# progjar-ets
+Tugas Tengah Semester Pemrograman Jaringan C
